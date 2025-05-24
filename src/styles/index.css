@@ -1,0 +1,12 @@
+/* Global styles for the Trello-styled todo board */
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #f4f5f7;
+  color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
